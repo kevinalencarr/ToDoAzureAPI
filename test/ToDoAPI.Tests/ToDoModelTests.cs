@@ -17,6 +17,6 @@ public class ToDoModelTests
         testToDo.Name = "Complete Azure pipelines";
 
         // Assert
-        Assert.Equal("Complete Azure pipelines", testToDo.Name);
+        Assert.Equal("Complete Azure", testToDo.Name);
     }
 }
